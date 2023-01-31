@@ -11,7 +11,7 @@ This python program can be used to automatically download (tested as on Dec 17, 
 Step 1 : Clone repository - run the below code from command line
 
 ``` 
-git clone https://github.com/snehamishra4321/NIPS_Data_Wrangling.git
+git clone https://github.com/snehamishra4321/NIPS-Data-Wrangling.git
 ```
 
 Step 2 : Install requirements
